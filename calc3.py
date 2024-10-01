@@ -1,5 +1,3 @@
-#this will be third in the series.
-
 # Token types
 #
 # EOF (end-of-file) token is used to indicate that
