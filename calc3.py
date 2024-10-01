@@ -4,7 +4,6 @@
 INTEGER, PLUS, MINUS, EOF = 'INTEGER', 'PLUS', 'MINUS', 'EOF'
 
 
-
 class Token(object):
     def __init__(self, type, value):
         # token type: INTEGER, PLUS, MINUS, or EOF
