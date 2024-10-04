@@ -4,7 +4,6 @@
 # there is no more input left for lexical analysis
 INTEGER, SUBTRACT, EOF = 'INTEGER', 'SUBTRACT', 'EOF'
 
-
 class Token(object):
     def __init__(self, type, value):
         # token type: INTEGER, SUBTRACT, or EOF
